@@ -1,0 +1,12 @@
+basic.forever(function () {
+    basic.showString("Catherine N Jackson")
+    basic.showString("I was born on December 11, 2010")
+    basic.showString("I have 3 siblings")
+    basic.showString("There names are Anna, Landyn, and Brittany")
+    basic.showString("I have a mom, a step mom, a dad, and a step dad")
+    basic.showString("I can't wait for Christmas, it is my favorite holiday")
+    basic.showString("For this thanksgiving, I am going to West Virginia")
+    basic.showString("I will be staying in a BIG cabin with my moms side of the family")
+    basic.showString("We are also taking our 2 dogs named Sunny and Stormy")
+    basic.showString("Sunny is a Chihuahua and Stormy is a Chow Chow ")
+})
